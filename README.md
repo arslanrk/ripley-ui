@@ -1,6 +1,6 @@
 # Ripley-UI
 
-A modern, fan-style portfolio / showcase static website built with HTML/CSS/JS — inspired by a wrestling-superstar theme.  
+A modern, fan-style portfolio / showcase static website built with Next.Js, Tailwind CSS — inspired by a wrestling-superstar theme.  
 
 ## 🔗 Live Demo
 
