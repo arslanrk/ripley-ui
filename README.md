@@ -18,7 +18,7 @@ Check out the live deployed version here:
 ![Achievements](./public/screenshots/achievements.jpg)
 
 ### 🎥 Video Highlights
-![Videos](./public/screenshots/videos.jpg)
+![Videos](./public/screenshots/video.jpg)
 
 ### 🖼️ Gallery
 ![Gallery](./public/screenshots/gallery.jpg)
